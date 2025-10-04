@@ -13,3 +13,4 @@ autoSortDownloads is a script that will auto sort files in your downloads folder
 #### Development Notes
 - Learned about %USERPROFILE%, which references the current active user
 - Had to research some file formats
+- This program was created as a challenge for myself to start learning automation
